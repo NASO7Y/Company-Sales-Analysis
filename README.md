@@ -37,7 +37,7 @@ The Power BI dashboard is divided into three main components:
 
 ### 🔄 Project Structure Overview
 
-This diagram illustrates the structure of the project, showing the organization of files and folders within the repository.
+This diagram illustrates the structure of the project, showing the organization of Data in the Power BI project.
 
 ![Project Structure](Images/Structure.png)
 

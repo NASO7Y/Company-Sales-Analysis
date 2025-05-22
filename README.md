@@ -41,7 +41,6 @@ This diagram illustrates the structure of the project, showing the organization 
 
 ![Project Structure](Images/Structure.png)
 
-> **Image Link:** [Images/Structure.png](Images/Structure.png)
 
 ---
 
@@ -53,19 +52,17 @@ Each visualization below includes a direct image link from the `Images/` directo
 
 This dashboard offers a comprehensive view of the company's sales performance, showcasing total revenue, sales trends, and key performance indicators.
 
-![Main Dashboard](Images/Main_Dashboard.png)
+![Main Dashboard](Images/Main.png)
 
-> **Image Link:** [Images/Main_Dashboard.png](Images/Main_Dashboard.png)
 
 ---
 
-### 📦 Quantity Order Analysis
+### 📦 Quantity Order And Transaction Analysis
 
 This chart analyzes the quantity of orders placed, highlighting patterns in product demand across regions or timeframes. It supports inventory and sales planning.
 
-![Quantity Order Analysis](Images/Quantity_Order.png)
+![Quantity Order Analysis](Images/order_quantity_Transacions.png)
 
-> **Image Link:** [Images/Quantity_Order.png](Images/Quantity_Order.png)
 
 ---
 
@@ -73,9 +70,8 @@ This chart analyzes the quantity of orders placed, highlighting patterns in prod
 
 This dashboard dives into high-performing products or categories, examining factors like customer segments or campaigns that drive sales success.
 
-![Good Sales Insights](Images/Good_Sales.png)
+![Good Sales Insights](Images/good_sales.png)
 
-> **Image Link:** [Images/Good_Sales.png](Images/Good_Sales.png)
 
 
 ---
